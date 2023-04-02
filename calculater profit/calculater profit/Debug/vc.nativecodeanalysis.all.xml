@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\victor\source\repos\calculater profit\calculater profit\</FILEPATH>
+      <FILENAME>calculerprofit.cpp</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Produit::montant' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Produit::{ctor}</FUNCTION>
+    <DECORATED>??0Produit@@QAE@XZ</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

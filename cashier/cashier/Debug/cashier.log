@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\victor\source\repos\cashier\cashier\source.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\victor\source\repos\cashier\cashier\source.cpp(30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  cashier.vcxproj -> C:\Users\Victor\source\repos\cashier\Debug\cashier.exe

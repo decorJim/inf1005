@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\victor\source\repos\testing ground real\testing ground real\source.cpp(31): error C2275: 'main::joueur': illegal use of this type as an expression
+  c:\users\victor\source\repos\testing ground real\testing ground real\source.cpp(9): note: see declaration of 'main::joueur'
+c:\users\victor\source\repos\testing ground real\testing ground real\source.cpp(34): error C2275: 'main::joueur': illegal use of this type as an expression
+  c:\users\victor\source\repos\testing ground real\testing ground real\source.cpp(9): note: see declaration of 'main::joueur'
+c:\users\victor\source\repos\testing ground real\testing ground real\source.cpp(37): error C2275: 'main::joueur': illegal use of this type as an expression
+  c:\users\victor\source\repos\testing ground real\testing ground real\source.cpp(9): note: see declaration of 'main::joueur'
+c:\users\victor\source\repos\testing ground real\testing ground real\source.cpp(40): error C2275: 'main::joueur': illegal use of this type as an expression
+  c:\users\victor\source\repos\testing ground real\testing ground real\source.cpp(9): note: see declaration of 'main::joueur'

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\victor\source\repos\distance de points avec origine\distance de points avec origine\source.cpp(17): warning C4101: 'z': unreferenced local variable
+c:\users\victor\source\repos\distance de points avec origine\distance de points avec origine\source.cpp(17): warning C4101: 'y': unreferenced local variable
+c:\users\victor\source\repos\distance de points avec origine\distance de points avec origine\source.cpp(17): warning C4101: 'x': unreferenced local variable
+  distance de points avec origine.vcxproj -> C:\Users\Victor\source\repos\distance de points avec origine\Debug\distance de points avec origine.exe

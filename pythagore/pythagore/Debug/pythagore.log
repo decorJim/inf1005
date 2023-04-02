@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\victor\source\repos\pythagore\pythagore\source.cpp(12): error C4700: uninitialized local variable 'verify' used

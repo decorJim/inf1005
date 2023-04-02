@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\victor\source\repos\fontion pratique\fontion pratique\source.cpp(15): warning C4715: 'decision': not all control paths return a value
+LINK : fatal error LNK1168: cannot open C:\Users\Victor\source\repos\Fontion pratique\Debug\Fontion pratique.exe for writing
